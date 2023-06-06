@@ -8,6 +8,8 @@ _Задание 1_
 
 _Задание 2_
 
+Если необходимо, исправьте данный код
+
 ```
 try {
    int d = 0;
@@ -20,6 +22,7 @@ try {
 
 _Задание 3_
 
+Если необходимо, исправьте данный код
 ```
 public static void main(String[] args) throws Exception {
    try {
@@ -50,7 +53,7 @@ _Задание 4_
 <p style="font-weight: bold;">
 Задание 1 - ex1.py (<u>Python</u>)<br>
 Задание 2 - Ex2.java (<u>Java</u>)<br>
-Задание 3 - ex1.java (<u>Java</u>)<br>
+Задание 3 - Ex2.java (<u>Java</u>)<br>
 Задание 4 - ex4.py (<u>Python</u>)**
 </p>
 <hr>
