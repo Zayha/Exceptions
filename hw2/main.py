@@ -4,7 +4,10 @@ from hw2.ex4 import if_empty_string
 
 def main():
     get_float()
-    print(if_empty_string("123"))
+    try:
+        print(if_empty_string(""))
+    except Exception as e:
+        print(e)
 
 
 if __name__ == '__main__':
