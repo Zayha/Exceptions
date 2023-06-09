@@ -12,7 +12,7 @@ class UnexpectedLengthOfList(Exception):
         return self.message
 
 
-class MoreDataThenExpected(Exception):
-    def __init__(self, data):
-        self.message = f'Проверьте корректность введенных данных: {data}'
-        super().__init__(self.message)
+# class MoreDataThenExpected(Exception):
+#     def __init__(self, data):
+#         self.message = f'Проверьте корректность введенных данных: {data}'
+#         super().__init__(self.message)
